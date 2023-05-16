@@ -41,7 +41,7 @@ int dec_to_hex(char c, unsigned int num)
 }
 
 /**
- * print_odh - this function prints a number in its octal, decimal or hex representation
+ * print_odh - this function prints a number in its octal.
  *
  * @c: type to be converted into
  * @num: number to be converted

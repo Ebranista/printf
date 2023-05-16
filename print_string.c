@@ -3,7 +3,7 @@
   *print_string -this function  prints string followed by a new line.
   *@str: - pointer to char.
   *
-  *Return: - returns int. 
+  *Return: - returns int.
   */
 int print_string(char *str)
 {

@@ -1,4 +1,4 @@
-% print(1) print 1.0.0 
+% print(1) print 1.0.0
 % Ebrahim Usman , Chris James
 % April  2021
 
@@ -36,7 +36,7 @@ use the following key characters to format arguments:
 
 **%o**: print octal numbers
 
-**%r** : prints string in reverse order 
+**%r** : prints string in reverse order
 
 **%R** : prints string in ROT13 encoding
 

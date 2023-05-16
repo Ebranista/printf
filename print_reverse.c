@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_reverse -this function  prints a string in reverse order, followed by a new line.
+ * print_reverse -this function  prints a string in reverse order.
  * @s: string to be printed in reverse order
  * Return: number of characters printed
  */
